@@ -14,7 +14,7 @@ pygmentsCodeFences=true
   sub = "I'm a Natural Language Processing researcher"
 
 [params.main]
-  latestPublishHeader = "My Latest Project"
+  latestPublishHeader = ""
 
 [taxonomies]
   design = "designs"
@@ -55,7 +55,7 @@ pygmentsCodeFences=true
   gitlab = "https://gitlab.com/"
   
 [params.contact]
-  email = ""
+  email = "khoann2209@gmail.com"
   text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
@@ -74,13 +74,19 @@ pygmentsCodeFences=true
   title = "Publications"
   url = "/publications/"
   weight = -110
+[[menu.main]]
+  identifier = "CV"
+  name = "CV"
+  title = "CV section"
+  url = "/CV/"
+  weight = -100
 
 [[menu.main]]
   identifier = "blog"
   name = "Post"
   title = "Blog section"
   url = "/post/"
-  weight = -100
+  weight = -90
 
 [sitemap]
   changefreq = "monthly"
