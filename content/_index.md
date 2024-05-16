@@ -1,10 +1,10 @@
 ---
-title: About
-description: Hey, I'm Khoa
+title: Home
+description: Welcome to my personal website
 images: ["/images/sample.jpg"]
 ---
 
-PhD in Natural Language Processing from La Rochelle University since 2023. My thesis title is "Emerging Trends Detection in News Articles", and it was under the supervision of Antoine Doucet, Thierry Delahaut with the help of Emanuela Boros and Gaël Lejeune.
+Hi, my name is Khoa and I'm a PhD. in Natural Language Processing from La Rochelle University since 2023. My thesis title is "Emerging Trends Detection in News Articles", and it was under the supervision of Prof. Antoine Doucet, Dr. Thierry Delahaut with the help of Dr. Emanuela Boros and Asc Prof. Gaël Lejeune.
 
 
 Interests
