@@ -2,7 +2,7 @@ baseURL = "https://example.com/"
 languageCode = "en-us"
 title = "Nhu Khoa NGUYEN"
 theme = "personal-web"
-copyright="© Edna West"
+copyright="© Nhu Khoa Nguyen"
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
@@ -49,14 +49,14 @@ pygmentsCodeFences=true
   customCSS = ""
 
 [params.social]
-  github = "https://github.com/"
-  linkedin = "https://www.linkedin.com/in/"
-  youtube = "https://www.youtube.com/"
-  gitlab = "https://gitlab.com/"
+  github = "https://github.com/nnkhoa"
+  linkedin = "https://www.linkedin.com/in/nguyen-nhukhoa"
+  youtube = "https://www.youtube.com/@KhoaNguyen-ze9vs"
+  googlescholar = "https://scholar.google.com/citations?user=Y3q8BeUAAAAJ"
   
 [params.contact]
   email = "khoann2209@gmail.com"
-  text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
+  text= "Email" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
 [menu]
