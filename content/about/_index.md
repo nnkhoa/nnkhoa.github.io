@@ -1,5 +1,5 @@
 ---
-title: ABOUT
+title: About
 description: Hey, I'm Khoa
 images: ["/images/sample.jpg"]
 ---

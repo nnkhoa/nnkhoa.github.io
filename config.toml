@@ -69,10 +69,10 @@ pygmentsCodeFences=true
   weight = -120
 
 [[menu.main]]
-  identifier = "portfolio"
-  name = "Portfolio"
-  title = "Portfolio"
-  url = "/portfolio/"
+  identifier = "publications"
+  name = "Publications"
+  title = "Publications"
+  url = "/publications/"
   weight = -110
 
 [[menu.main]]
