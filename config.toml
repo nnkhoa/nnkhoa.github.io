@@ -14,7 +14,7 @@ pygmentsCodeFences=true
   sub = "I'm a Natural Language Processing researcher"
 
 [params.main]
-  latestPublishHeader = ""
+  # latestPublishHeader = ""
 
 [taxonomies]
   design = "designs"
@@ -81,12 +81,12 @@ pygmentsCodeFences=true
   url = "/CV/"
   weight = -100
 
-[[menu.main]]
-  identifier = "blog"
-  name = "Post"
-  title = "Blog section"
-  url = "/post/"
-  weight = -90
+# [[menu.main]]
+#   identifier = "blog"
+#   name = "Post"
+#   title = "Blog section"
+#   url = "/post/"
+#   weight = -90
 
 [sitemap]
   changefreq = "monthly"
