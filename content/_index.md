@@ -1,5 +1,5 @@
 ---
-title: Home
+title: About Me
 description: Welcome to my personal website
 images: ["/images/sample.jpg"]
 ---
@@ -12,6 +12,7 @@ Interests
 
 Right now, my main interest is still about text processing for the detection of emerging trends. My doctoral research lead me to believe that may be the news are quite slow, temporal-wise, to be used as a resource for efficient and timely identification of potential emerging topics. Thus, my main question to answer now is "If the news is not good/fast enough, what is?"
 
+Also, I'm currently looking into Large Language Model technology, as it has become one of, if not the fastest growing technology in NLP. Recent advancements in LLM regarding both performance and applications makes it hard not to keep an eye on.
 
 
 What's new
